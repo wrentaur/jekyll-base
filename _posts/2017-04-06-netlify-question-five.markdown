@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Provide a link to documentation and explain why you think they are well done."
+title:  "Provide a link to documentation and explain why you think it is well done."
 date:   2017-04-06 14:00
 categories: Netlify Questions
 ---
-An API documentation that I really appreciate is from [Slack](https://api.slack.com/). 
+Developer focused documentation that I really appreciate is [the documentation for the Slack API](https://api.slack.com/). 
 
 From the get go, this documentation screams user friendly with choices that make the layout really engaging and digestible. These wonderful choices include:
 
