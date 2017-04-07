@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 1. These are a few of my favorite Things [(off the provided list)](https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6) in no particular order:
 
-  * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suggest and champion improvements to the product and workflow to your colleagues in and out of support
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Suggest and champion improvements to the product and workflow to your colleagues in and out of support
   
   * Work with the development team to help design a new feature based on feedback from customers
   
