@@ -6,5 +6,12 @@ categories: jekyll update
 ---
 These are a few of my favorite Things (in no particular order):
 
--Create video tutorials to help teach users a specific feature or use case
--
+-Suggest and champion improvements to the product and workflow to your colleagues in and out of support
+
+-Work with the development team to help design a new feature based on feedback from customers
+
+-Debug a customer's build using a programming language and framework that you've never seen before
+
+-Analyze thousands of support tickets to spot trends to improve our product
+
+-Deliver a talk to many people you don't know at a conference or meetup
