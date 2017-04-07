@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tell about how you made your site..."
+title:  "Tell about how you made your site."
 date:   2017-04-07 14:00
 categories: Netlify Questions
 ---
