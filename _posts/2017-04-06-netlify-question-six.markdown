@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Provide a link to documentation and explain why you think it is well done."
-date:   2017-04-06 14:00
+date:   2017-04-05 14:00
 categories: Netlify Questions
 ---
 Developer focused documentation that I really appreciate is [the documentation for the Slack API](https://api.slack.com/). 
