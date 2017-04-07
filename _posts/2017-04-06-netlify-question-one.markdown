@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rank your 5 favorite, and least favorite, activities"
+title:  "Rank your 5 favorite, and least favorite, activities."
 date:   2017-04-10 19:28
 categories: Netlify Questions
 ---
