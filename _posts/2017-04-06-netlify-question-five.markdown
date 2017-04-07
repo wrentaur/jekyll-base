@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Could you give us a suggestion to improve this test or the job posting?"
-date:   2017-04-07 14:00
+date:   2017-04-06 14:00
 categories: Netlify Questions
 ---
 The only suggestion I have is to change one word that I found a bit ambiguous in the job posting. It is obvious the posting is meant to be inclusive based on the writing style and I think it is except for the use of the word **conversant**. My issue with this word use is two fold. 
