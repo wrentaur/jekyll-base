@@ -4,7 +4,7 @@ title:  "What did you think of our service during the time you used it?"
 date:   2017-04-08 14:00
 categories: Netlify Questions
 ---
-I really enjoyed using netlify for this project! 
+I really enjoyed using Netlify for this project! 
 
 First of all, the quick and easy interation process with my GitHub account was amazing!
 
