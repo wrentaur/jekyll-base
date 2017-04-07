@@ -6,9 +6,9 @@ categories: jekyll update
 ---
 1. These are a few of my favorite Things [(off the provided list)](https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6) in no particular order:
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Suggest and champion improvements to the product and workflow to your colleagues in and out of support
+  * Suggest and champion improvements to the product and workflow to your colleagues in and out of support
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Work with the development team to help design a new feature based on feedback from customers
+  * Work with the development team to help design a new feature based on feedback from customers
   
   * Debug a customer's build using a programming language and framework that you've never seen before
   
@@ -16,5 +16,15 @@ categories: jekyll update
   
   * Deliver a talk to many people you don't know at a conference or meetup  
 
-2. None of the options [(off the provided list)](https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6) were unexciting, but here are the ones I find least interesting:
+2. None of the options [(off the provided list)](https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6) were unexciting, but here are the ones I find least interesting in no particular order:
+
+  * Receive occasional phone calls requesting support from our highest-value customers
+  
+  * Find and recruit teammates for the support team
+  
+  * Manage a support team
+  
+  * Help train and onboard new support teammates
+  
+  * Engage multiple users at once via chat to answer their questions and troubleshoot problems
 
