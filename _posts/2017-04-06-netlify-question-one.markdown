@@ -8,7 +8,7 @@ categories: jekyll update
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Suggest and champion improvements to the product and workflow to your colleagues in and out of support
   
-  * Work with the development team to help design a new feature based on feedback from customers
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Work with the development team to help design a new feature based on feedback from customers
   
   * Debug a customer's build using a programming language and framework that you've never seen before
   
