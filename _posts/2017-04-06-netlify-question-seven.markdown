@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why do you think SSL/HTTPS is important??"
+title:  "Why do you think SSL/HTTPS is important?"
 date:   2017-04-04 14:00
 categories: Netlify Questions
 ---
