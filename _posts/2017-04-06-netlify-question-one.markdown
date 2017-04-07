@@ -2,7 +2,7 @@
 layout: post
 title:  "Rank your 5 favorite, and least favorite, activities"
 date:   2017-04-06 19:28
-categories: jekyll update
+categories: Netlify Questions
 ---
 These are a few of my favorite Things [(off the provided list)](https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6) in no particular order: 
 
