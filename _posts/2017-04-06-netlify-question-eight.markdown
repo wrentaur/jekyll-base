@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Explain 2 major challenges around DNS configuration are for less-technical internet end-users."
-date:   2017-04-04 14:00
+date:   2017-04-03 14:00
 categories: Netlify Questions
 ---
 The main challenge for a less technical users trying to do DNS configuration is simply understanding the task at hand. When I have had to walk someone through troubleshooting DNS configuration who isn’t very tech savvy they can sometimes shut down or become overwhelmed because of the unfamiliar terminology. I think it’s part of a very human response to feel like if something is unfamiliar you just can’t get it. 
