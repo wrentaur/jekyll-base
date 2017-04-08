@@ -11,3 +11,6 @@ github_username:  wrentaur
 
 # Build settings
 markdown: kramdown
+
+# My Changes
+include: [_redirect]
