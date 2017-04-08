@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Explain 2 major challenges around DNS configuration are for less-technical internet end-users."
+title:  "Explain 2 major challenges around DNS configuration for less-technical internet end-users."
 date:   2017-04-03 14:00
 categories: Netlify Questions
 ---
