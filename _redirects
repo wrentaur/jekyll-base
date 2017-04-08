@@ -1,2 +1,2 @@
-/netlify/anything   https://www.google.com/search?q=anything
+/netlify/*   https://www.google.com/search?q=:splat
 /news               /blog
