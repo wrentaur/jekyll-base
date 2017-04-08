@@ -4,7 +4,7 @@ title:  "Tell about how you made your site."
 date:   2017-04-07 14:00
 categories: Netlify Questions
 ---
-Since time was a factor, while making my site I tried to thoughtfully take a path of low resistance. When I looked over the static generators I had access to on the StaticGen site, I went with the Jekyll generator because Jekyll was the only option I already had experience with.  
+I tried to thoughtfully take a path of low resistance while making my site since time was a factor. When I looked over the static generators that I had access to on the StaticGen site, I went with the Jekyll generator because Jekyll was the option I already had experience with.    
 
 My next step was to explore the configuration of the template the generator provided and determine a strategy to get what I needed out of the site (clearly displaying my responses in accessible) while working efficiently with the template features. Since it was a blog template, I made each question and answer a blog post and changed the the index page so the entire content of each post was visible.
 
